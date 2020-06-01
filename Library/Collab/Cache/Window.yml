@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/BallEnemy.cs
+    - Assets/BallEnemy.cs.meta
+    - Assets/Coin01.aif
+    - Assets/Coin01.aif.meta
+    - Assets/Enemy.cs
+    - Assets/GameOver.cs
+    - Assets/GameOver.cs.meta
+    - Assets/MenuGame.cs
+    - Assets/MenuGame.cs.meta
+    - Assets/Prefabs/Ball.prefab
+    - Assets/Prefabs/Ball.prefab.meta
+    - Assets/Prefabs/Enemy.prefab
+    - Assets/Prefabs/EnterButton.prefab
+    - Assets/Prefabs/EnterButton.prefab.meta
+    - Assets/Prefabs/TreeA.prefab
+    - Assets/Prefabs/TreeB.prefab
+    - Assets/Prefabs/boat.prefab
+    - Assets/Prefabs/cloudA.prefab
+    - Assets/Prefabs/cloudB.prefab
+    - Assets/Prefabs/cloudB.prefab.meta
+    - Assets/Prefabs/seashell.prefab
+    - Assets/Scenes/Game.unity
+    - Assets/Scenes/GameOver.unity
+    - Assets/Scenes/GameOver.unity.meta
+    - Assets/Scenes/Instruction.unity
+    - Assets/Scenes/Instruction.unity.meta
+    - Assets/SpawnBG.cs
+    - Assets/Sprites/Character/Animation/New AnimationTitle.anim
+    - Assets/Sprites/Character/Animation/New AnimationTitle.anim.meta
+    - Assets/Sprites/Character/Animation/jump_11.wav
+    - Assets/Sprites/Character/Animation/jump_11.wav.meta
+    - Assets/Sprites/FX02.aif
+    - Assets/Sprites/FX02.aif.meta
+    - Assets/Sprites/Labels.meta
+    - Assets/Sprites/Labels/A.png
+    - Assets/Sprites/Labels/A.png.meta
+    - Assets/Sprites/Labels/D.png
+    - Assets/Sprites/Labels/D.png.meta
+    - Assets/Sprites/Labels/F.png
+    - Assets/Sprites/Labels/F.png.meta
+    - Assets/Sprites/Labels/S.png
+    - Assets/Sprites/Labels/S.png.meta
+    - Assets/Sprites/Screen Shot 2563-05-30 at 20.42.26.png
+    - Assets/Sprites/Screen Shot 2563-05-30 at 20.42.26.png.meta
+    - Assets/Sprites/Screen Shot 2563-05-30 at 20.43.20.png
+    - Assets/Sprites/Screen Shot 2563-05-30 at 20.43.20.png.meta
+    - Assets/Sprites/random silly chip song.ogg
+    - Assets/Sprites/random silly chip song.ogg.meta
+    - Assets/WaitJump.cs
+    - Assets/Wave.cs
+    - Packages/manifest.json
+    - ProjectSettings/EditorBuildSettings.asset
+    - ProjectSettings/ProjectSettings.asset
+    - ProjectSettings/ProjectVersion.txt
+    - ProjectSettings/TagManager.asset
+    - ProjectSettings/UnityConnectSettings.asset
+    - ProjectSettings/VersionControlSettings.asset
+    - 
+    m_Values: 01010101010101010101010101010101010101010101010101010101010101010101010101010101010100000000010101010101010101010100
+  RevisionSummary: Devlog 001
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
